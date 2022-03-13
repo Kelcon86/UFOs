@@ -5,10 +5,20 @@ In this project, we helped a Data Journalist work on a story regarding UFO sight
 
 ## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. 
 
-Webpage users are able to filter the table by date, city, state, country and shape. In the image below, I entered "circle" in the shape filter on the left side of the page. This then brought up only the data with circle shaped UFOs.  
+Webpage users are able to filter the table by date, city, state, country and shape. 
+
+<img width="340" alt="Filter_Search_Image" src="https://user-images.githubusercontent.com/60076980/158062342-844d469c-580e-4d6a-aef8-853ea166a561.png">
+
+In the image below, I entered "circle" in the shape filter on the left side of the page. This then brought up only the data with circle shaped UFOs.  
 
 ### Shape Filter
 ![UFO_Shape_Filter](https://user-images.githubusercontent.com/60076980/157444918-1c0bff02-6645-4a40-a6f6-12fa96883f67.png)
+
+As seen in the image below, if a search yields no results the data section on the right side of the page will be blank. In this example, I searched the the state "mn", however there were no results found.
+
+### No results
+<img width="1322" alt="Filter_Search_2" src="https://user-images.githubusercontent.com/60076980/158062415-f51abed7-46e7-4e71-bb92-bd5a9c452bae.png">
+
 
 
 ### Final Webpage

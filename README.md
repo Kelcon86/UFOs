@@ -3,7 +3,7 @@
 ## Overview of Project
 In this project, we helped a Data Journalist work on a story regarding UFO sightings. Utilizing a file containing UFO sighting data, we were able to build a dynamic webpage using JavaScript, HTML and CSS.
 
-## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. 
+## Results 
 
 Webpage users are able to filter the table by date, city, state, country and shape. 
 
@@ -18,8 +18,6 @@ As seen in the image below, if a search yields no results the data section on th
 
 ### No results
 <img width="1322" alt="Filter_Search_2" src="https://user-images.githubusercontent.com/60076980/158062415-f51abed7-46e7-4e71-bb92-bd5a9c452bae.png">
-
-
 
 ### Final Webpage
 ![UFO_Webpage](https://user-images.githubusercontent.com/60076980/157444472-12f19cea-4f37-4a0d-9a11-3760ba24ab39.png)

@@ -16,6 +16,11 @@ In the image below, I entered "circle" in the shape filter on the left side of t
 
 As seen in the image below, if a search yields no results the data section on the right side of the page will be blank. In this example, I searched the the state "mn", however there were no results found.
 
+Users can also search by multiple filters at the same time to narrow down the results. In the example below, I entered "ca" in the state field and "triangle" in the shape field to narrow down the results.
+
+### Multiple filters
+<img width="1435" alt="Multiple_Filters" src="https://user-images.githubusercontent.com/60076980/158062876-6e0f8952-4117-4147-b470-03f8fcad17c5.png">
+
 ### No results
 <img width="1322" alt="Filter_Search_2" src="https://user-images.githubusercontent.com/60076980/158062415-f51abed7-46e7-4e71-bb92-bd5a9c452bae.png">
 
